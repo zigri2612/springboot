@@ -1,1 +1,8 @@
-Spring Boot core demo application
+Spring Boot core command line application
+---------------------------------------------------
+
+create the Mysql Database and set the replace the details as per application.properties file
+
+Run the application
+
+enter the details asked. If the values are valid data will be inserted in table
