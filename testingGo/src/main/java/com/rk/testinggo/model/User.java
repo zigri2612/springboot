@@ -1,4 +1,4 @@
-package com.rk.testinggo.model;
+package com.rk.testinggo.model; .
 
 public class User {
 
